@@ -1,0 +1,15 @@
+body {
+  background: #cce0ff;
+  margin: 0;
+}
+#timer {
+  background-color: white;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  margin: 0;
+  color: black;
+  height: 70px;
+  width: 200px;
+}
